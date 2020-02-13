@@ -22,7 +22,7 @@ ssr://NDUuMzMuNjMuMTQ3OjE4Mjg5OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnBsYWluOmFHVn
 
 # trojan
 
-trojan://bb4810d0@haohaolalahao.top:443?peer=#%E5%9C%9F%E8%B1%
+trojan://bb4810d0@haohaolalahao.top:443?peer=#%E5%9C%9F%E8%B1%86
 
 # ss
 
