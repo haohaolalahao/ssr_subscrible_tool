@@ -1,12 +1,31 @@
 # list
 
-# ssr
-ssr://NDUuMzMuNjMuMTQ3OjE4Mjg5OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnBsYWluOmFHVnNiRzkzYjNKc1pBLz9yZW1hcmtzPSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+# ssr 5
+
+ssr://NDUuMzMuNjMuMTQ3OjE4MjkzOmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnBsYWluOmFHVnNiRzkzYjNKc1pEUS8_cmVtYXJrcz02WVc0NllXNDVMbXpabWwyWlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+
+# ssr 4
+
+ssr://NDUuMzMuNjMuMTQ3OjE4MjkyOmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnBsYWluOmFHVnNiRzkzYjNKc1pETS8_cmVtYXJrcz02WVc0NllXNDVMbXpabTkxY2cmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+
+# ssr 3
+
+ssr://NDUuMzMuNjMuMTQ3OjE4MjkxOmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnBsYWluOmFHVnNiRzkzYjNKc1pESS8_cmVtYXJrcz02WVc0NllXNDVMbXpkR2h5WldVJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+
+# ssr 2
+
+ssr://NDUuMzMuNjMuMTQ3OjE4MjkwOmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnBsYWluOmFHVnNiRzkzYjNKc1pERS8_cmVtYXJrcz02WVc0NllXNDVMbXpkSGR2JnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+
+# ssr 1
+
+ssr://NDUuMzMuNjMuMTQ3OjE4Mjg5OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnBsYWluOmFHVnNiRzkzYjNKc1pBLz9yZW1hcmtzPTZZVzQ2WVc0NUxtemIyNWwmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 
 # trojan
-trojan://bb4810d0@haohaolalahao.top:443?peer=
+
+trojan://bb4810d0@haohaolalahao.top:443?peer=#%E5%9C%9F%E8%B1%
 
 # ss
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZWxsb3dvcmxkQDQ1LjMzLjYzLjE0Nzo5MTg2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZWxsb3dvcmxkQDQ1LjMzLjYzLjE0Nzo5MTg2#%E5%82%BB%E5%82%BB
 
 
